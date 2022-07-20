@@ -1,0 +1,4 @@
+If you are using the Pycharm IDE
+then handling the Unicode error becomes a tad simpler.
+If you have a single input file or a lesser number of input files,
+you can change the encoding of the files
